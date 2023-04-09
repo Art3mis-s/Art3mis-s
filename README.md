@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Me:
 👋 Hi there! My name is Shabana, and I'm a beginner programmer currently learning Python online through CS50Python. Although I'm not currently working or attending university.<br>🌱 I’m currently learning Python and exploring different libraries and frameworks. And of course will learn other programming languages in the future.<br>🔭 Presently working on some python projects which helps me to learn python.<br>👯 I’m looking to collaborate with innovators and contributing to open-source projects.<br>🤔 I’m looking for help with improving my coding skills and tackling difficult problems and creating unique projects.<br>💬 Ask me about my experience learning to code as a beginner and my favorite Python libraries and tools.<br>📫 How to reach me: Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/shabana-qasemi-339957257/ or on Instagram: https://www.instagram.com/thisis_shabana/.<br>😄 Pronouns: she/her/Artimes <br>⚡ Fun fact: I can speak three languages. I love ice hockey, and playing Basketball and I enjoy reading novels, doing calligraphy in my free time.
 
 
