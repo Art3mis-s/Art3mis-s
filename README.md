@@ -1,19 +1,104 @@
-# 💫 🙋
-👋 Hi there! My name is Shabana, and I'm a beginner programmer currently learning Python online through CS50Python. Although I'm not currently working or attending university.<br>🌱 I’m currently learning Python and exploring different libraries and frameworks. And of course will learn other programming languages in the future.<br>🔭 Presently working on some python projects which helps me to learn python.<br>👯 I’m looking to collaborate with innovators and contributing to open-source projects.<br>🤔 I’m looking for help with improving my coding skills and tackling difficult problems and creating unique projects.<br>💬 Ask me about my experience learning to code as a beginner and my favorite Python libraries and tools.<br>📫 How to reach me: Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/shabana-qasemi-339957257/ or on Instagram: https://www.instagram.com/thisis_shabana/.<br>😄 Pronouns: she/her/Artimes <br>⚡ Fun fact: I love ice hockey, and playing Basketball and I enjoy reading books, doing calligraphy and writting Blogs in my free time.
+![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d343237626662266865696768743d3132302673656374696f6e3d686561646572](https://user-images.githubusercontent.com/90936436/226839506-4bae5412-ed2f-47fd-b19f-569d65644be4.svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hey+there,+Geniuses!;Shabana++in+the+spotlight;Let's+Follow+EachOther!;CS50+Student;Happy+Coding,;Happy+heart<3;a+Pythonista+)](https://git.io/typing-svg)
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/thisis_shabana/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shabana-qasemi-339957257/) 
+<div id="header" align="center">
+  <img src="https://cdn.lowgif.com/full/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="200">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Artimes-c&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Artimes-c&theme=city_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Artimes-c&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ 
+</div>
+<div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=Artimes-c&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div id="header" align="center">
+<div id="badges">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/shabana-qasemi-339957257/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://instagram.com/https://www.instagram.com/thisis_shabana/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="[!Instagram Badge"/>
+  </a>
+</div>
+  </div>
+
+<br>
+
+
+
+ <div>
+  
+  
+  
+  | GitHub Stats | Streak |
+| ------------ | ------ |
+|  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Art3misGit&layout=compact)](https://github.com/Art3misGit) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Art3misGit&theme=dark&background=000000)](https://git.io/streak-stats) |
+
+  
+  
+  </div>
+  
+  <br>
+  
+  <div>
+  
+  
+  
+ 
+
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Art3misGit&show_icons=true&theme=dark) 
+  
+  
+  
+  
+  </div>
+ 
+  
+  
+  ### Languages and Tools:
+  
+<div>
+
+![py](https://user-images.githubusercontent.com/90936436/179396520-68dae8d3-985c-4089-b68b-775ab792af0a.png)
+
+  
+  
+ </div>
+  
+  
+ <div >
+ 
+
+
+| Visitors | Gists Count |
+| -------- | -----------| 
+| ![Visitor Count](https://profile-counter.glitch.me/{Art3misGit}/count.svg) | [![Github gists](https://gist-count.vercel.app/api?username=Art3misGit)](https://gist.github.com/Art3misGit) 
+
+
+
+ </div>
+ 
+ 
+ 
+ 
+
+
+
+
+## I'm Student and developer!
+
+- 🔭 Exploring the depths of the tech universe.
+- 🌱 Learning, growing, and thriving. 😇
+- 👯 Eager to connect with fellow geeks and creative programmers
+- 🥅 2023 Goals: Contribute more to Open Source projects and mastering the art of Python, and Front-end world ;)
+- 🥅 2023 Goals: Striving for a daily commitment to open source, targeting 5000 commits ;)
+- ⚡ Fun fact: I love ice-hockey and palying Golf, deeply passionate about playing Rubab, a bookworm who adores novels and non-fiction. I express my thoughts    through blogging, capturing moments through photography, and finding joy in calligraphy, and a curious human being always striving to uncover deeper insights   and broaden my understanding of the world. 
+- 🤔 Fyp: CS50 
+
+![Snake animation](https://github.com/ctoic/ctoic/blob/output/github-contribution-grid-snake.svg)
+![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d343237626662266865696768743d3132302673656374696f6e3d666f6f746572](https://user-images.githubusercontent.com/90936436/226840038-7d4d0d3b-a59c-494f-ac44-840c36312889.svg)
