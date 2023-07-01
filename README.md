@@ -36,7 +36,7 @@
   
   | GitHub Stats | Streak |
 | ------------ | ------ |
-|  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Art3misGit&layout=compact)](https://github.com/Art3misGit) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Art3misGit&theme=dark&background=000000)](https://git.io/streak-stats) |
+|  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Art3mis-s&layout=compact)](https://github.com/Art3mis-s) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Art3mis-s&theme=dark&background=000000)](https://git.io/streak-stats) |
 
   
   
@@ -51,7 +51,7 @@
  
 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Art3misGit&show_icons=true&theme=dark) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Art3mis-s&show_icons=true&theme=dark) 
   
   
   
@@ -77,7 +77,7 @@
 
 | Visitors | Gists Count |
 | -------- | -----------| 
-| ![Visitor Count](https://profile-counter.glitch.me/{Art3misGit}/count.svg) | [![Github gists](https://gist-count.vercel.app/api?username=Art3misGit)](https://gist.github.com/Art3misGit) 
+| ![Visitor Count](https://profile-counter.glitch.me/{Art3mis-s}/count.svg) | [![Github gists](https://gist-count.vercel.app/api?username=Art3mis-s)](https://gist.github.com/Art3mis-s) 
 
 
 
@@ -100,5 +100,5 @@
 - ⚡ Fun fact: I love ice-hockey and palying Golf, deeply passionate about playing Rubab, a bookworm who adores novels and non-fiction. I express my thoughts    through blogging, capturing moments through photography, and finding joy in calligraphy, and a curious human being always striving to uncover deeper insights   and broaden my understanding of the world. 
 - 🤔 Fyp: CS50 
 
-![Snake animation](https://github.com/ctoic/ctoic/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Art3mis-s/Art3mis-s/blob/output/github-contribution-grid-snake.svg)
 ![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d343237626662266865696768743d3132302673656374696f6e3d666f6f746572](https://user-images.githubusercontent.com/90936436/226840038-7d4d0d3b-a59c-494f-ac44-840c36312889.svg)
