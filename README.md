@@ -90,7 +90,7 @@
 
 
 
-## I'm Student and developer!
+## I'm a Student and a developer!
 
 - 🔭 Exploring the depths of the tech universe.
 - 🌱 Learning, growing, and thriving. 😇
