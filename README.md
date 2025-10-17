@@ -1,14 +1,44 @@
-
 ```
                            ✦ ੈ ✧ ‧₊˚ * ੈ ✧‧₊˚** ੈ ✧ ‧₊˚ * ੈ ✧‧₊˚** ੈ ✧ ‧₊˚ * ੈ ✧‧₊˚** ੈ ✧ ‧₊
 
 ```
+
 
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=+CS+Student;C%2B%2B+Developer;Reader+%7C+Fitness+%7C+Photography;Building+Projects)
 
 </div>
+
+---
+
+
+
+ Technology, to me, is a tool for creating positive change, and I am excited to be learning the skills necessary to build innovative solutions for the real world problems. I am a Computer Science undergraduate with a focus on software engineering and intelligent systems, and passionate about building scalable applications and integrating AI technologies into real-world solutions. 
+
+---
+
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║        "First, solve the problem. Then, write the code."      ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+
+
+**Thanks for visiting my profile!**
+
+Feel free to explore my repositories and drop a ⭐ if you find something interesting!
+
+```
+✦ ੈ ✧ ‧₊˚ * ੈ ✧‧₊˚** ੈ ✧ ‧₊˚ * ੈ ✧‧₊˚** ੈ ✧ ‧₊˚ * ੈ ✧‧₊˚** ੈ ✧ ‧₊
+```
+
 
 # 💻 Tech Stack:
 
@@ -30,68 +60,11 @@
 
 </div>
 
----
-
-
-
- Technology, to me, is a tool for creating positive change, and I am excited to be learning the skills necessary to build innovative solutions for the real world problems. I am a Computer Science undergraduate with a focus on software engineering and intelligent systems, and passionate about building scalable applications and integrating AI technologies into real-world solutions. 
-
----
-
-
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  LANGUAGES                                              │
-│  ████████████████████████░░░░░░░░░░░░  C++              │
-│  ████████████░░░░░░░░░░░░░░░░░░░░░░░░  Python           │
-│  ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░  C                │
-└─────────────────────────────────────────────────────────┘
-```
-
 
 
 </div>
 
-```
->>> DMs_OPEN = True
->>> COLLABORATION = "Welcome"
->>> CODE_REVIEWS = "Appreciated"
-```
 
----
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║        "First, solve the problem. Then, write the code."      ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-
-
-```
-[SYSTEM STATUS]: OPERATIONAL
-[COMMIT FREQUENCY]: NOT TOO HIGH   
-[DEBUGGING MODE]: ALWAYS ON
-[MOTIVATION LEVEL]: ████████████████████ 100%
-```
-
-**Thanks for visiting my profile!**
-
-Feel free to explore my repositories and drop a ⭐ if you find something interesting!
-```
-████████████████████████████████████████████████████████████████
-█  01001000 01100001 01110000 01110000 01111001 00100000     █
-█  01000011 01101111 01100100 01101001 01101110 01100111     █
-████████████████████████████████████████████████████████████████
-```
-
-```
-✦ ੈ ✧ ‧₊˚ * ੈ ✧‧₊˚** ੈ ✧ ‧₊˚ * ੈ ✧‧₊˚** ੈ ✧ ‧₊˚ * ੈ ✧‧₊˚** ੈ ✧ ‧₊
 
 
 
