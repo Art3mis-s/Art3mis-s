@@ -4,7 +4,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=+CS+Student;C%2B%2B+Developer;Reader+%7C+Fitness+%7C+Photography;Building+Projects)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=+CS+Student;C%2B%2B+;Reader+%7C+Fitness+%7C+Photography;Building+Projects)
 
 </div>
 
