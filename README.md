@@ -58,9 +58,6 @@
 </div>
 
 
-**Thanks for visiting my profile!**
-
-Feel free to explore my repositories and drop a ⭐ if you find something interesting!
 
 
 
