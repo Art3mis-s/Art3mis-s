@@ -10,9 +10,6 @@
 
 
 
- **Technology, to me, is a tool for creating positive change, and I am excited to be learning the skills necessary to build innovative solutions for the real world problems. I am a Computer Science undergraduate with a focus on software engineering and intelligent systems, and passionate about building scalable applications and integrating AI technologies into real-world solutions.**
-
-
 
 
 <div align="center">
